@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.AssemblyInfo.cs
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/bin/Debug/net7.0/piensaunnumero
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/bin/Debug/net7.0/piensaunnumero.deps.json
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/bin/Debug/net7.0/piensaunnumero.runtimeconfig.json
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/bin/Debug/net7.0/piensaunnumero.dll
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/bin/Debug/net7.0/piensaunnumero.pdb
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.dll
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/refint/piensaunnumero.dll
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.pdb
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/piensaunnumero.genruntimeconfig.cache
+/Users/emanuelgarrido/Desktop/University/piensaunnumero/piensaunnumero/obj/Debug/net7.0/ref/piensaunnumero.dll
